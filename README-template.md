@@ -17,11 +17,11 @@
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## Overview
+## Overview - For this Project i built a recipe page using HTML and CSS. The goal was to make the layout clean readable, and close to the example design that was given to us.
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./Screenshot%202025-12-12%20213942.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox or other browser to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -31,43 +31,25 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Repository URL: [Add repository URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Repository URL: [Add repository URL here](https://github.com/Remiboiz/Omoniyi-CTI-110-FinalProject.git)
+- Live Site URL: [Add live site URL here](https://remiboiz.github.io/Omoniyi-CTI-110-FinalProject/)
 
 ## My process
-
+I started by looking at the design example and figuring out how the page should be laid out 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5
+- CSS
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- Basic responsive layout
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+While working on the project, i learned how important structure and spacing are when building a webpage. Writing the HTML first lowkey made it easy to style everything later with CSS.I also learned how small charges like padding, margins and font colors
 
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+I got more comfortable using containers, styling lists and tables and matching my page to a design example.
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
@@ -75,25 +57,20 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+In the future i wanna improve my css skilss espiecially with spacing and layout.
 
 **Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+W3schools (https://www.w3schools.com/) Useful for examples and syntax
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Iremide Omoniyi](https://www.your-site.com)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+Jose, and iniya helped thx.
